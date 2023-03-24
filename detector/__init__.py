@@ -6,6 +6,7 @@ from PIL import Image
 import numpy as np
 import tensorflow as tf
 import pandas as pd
+import json
 
 
 model_path ='models/df-model.tflite'
@@ -22,9 +23,7 @@ model_path ='models/df-model.tflite'
 #load labels from csv
 classes = ['???'] * 100
 
-problems = []
-problem_colors = []
-arr_labels_ids = []
+
 
 labels = pd.read_json('labels/nl.json')
 arr_labels = labels.to_numpy()
@@ -98,7 +97,9 @@ def run_odt_and_draw_results(image_path, interpreter, threshold=0.5):
 
   # Run object detection on the input image
   results = detect_objects(interpreter, preprocessed_image, threshold=threshold)
-
+  problems = []
+  problem_colors = []
+  arr_labels_ids = []
   # Plot the detection results on the input image
   original_image_np = original_image.numpy().astype(np.uint8)
   for obj in results:
@@ -109,10 +110,11 @@ def run_odt_and_draw_results(image_path, interpreter, threshold=0.5):
     xmax = int(xmax * original_image_np.shape[1])
     ymin = int(ymin * original_image_np.shape[0])
     ymax = int(ymax * original_image_np.shape[0])
-
+   
     # Find the class index of the current object
     class_id = int(obj['class_id'])
-
+    # print(class_id)
+    # print(arr_labels)
     # Draw the bounding box and label on the image
     current_color = arr_labels[class_id][1]
     rgb_current_color = tuple(int(current_color.lstrip('#')[i:i+2], 16) for i in (0, 2, 4))
@@ -131,7 +133,7 @@ def run_odt_and_draw_results(image_path, interpreter, threshold=0.5):
 
   # Return the final image
   original_uint8 = original_image_np.astype(np.uint8)
-  return original_uint8
+  return [original_uint8,problems,problem_colors,arr_labels_ids]
 
 
 def detect(image_path):
@@ -150,9 +152,9 @@ def detect(image_path):
     )
 
     # Show the detection result
-    print("Detection result:")
+    # print("Detection result:")
     # print(detection_result_image)
     #generate random string
     output_image_name = 'static/images/output/result-' + (uuid.uuid4().hex) + '.jpg'
-    Image.fromarray(detection_result_image).save(output_image_name)
-    return [output_image_name, problems, problem_colors,arr_labels_ids]
+    Image.fromarray(detection_result_image[0]).save(output_image_name)
+    return json.dumps({'image': output_image_name, 'problems': detection_result_image[1], 'colors': detection_result_image[2], 'ids': detection_result_image[3]})
