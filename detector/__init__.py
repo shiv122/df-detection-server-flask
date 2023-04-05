@@ -9,7 +9,7 @@ import pandas as pd
 import json
 
 
-model_path ='models/df-model.tflite'
+model_path ='models/df-model-2.tflite'
 # model_path ='models/detect.tflite'
 
 # Load the labels into a list
@@ -116,19 +116,25 @@ def run_odt_and_draw_results(image_path, interpreter, threshold=0.5):
     # print(class_id)
     # print(arr_labels)
     # Draw the bounding box and label on the image
-    current_color = arr_labels[class_id][1]
+    current_color = arr_labels[class_id-1][1]
+    print(current_color)
+    if current_color == 'None':
+      print('in')
+      continue
+
+    
     rgb_current_color = tuple(int(current_color.lstrip('#')[i:i+2], 16) for i in (0, 2, 4))
     color = rgb_current_color
-    cv2.rectangle(original_image_np, (xmin, ymin), (xmax, ymax), color, 2)
+    cv2.rectangle(original_image_np, (xmin, ymin), (xmax, ymax), color, 3)
     # Make adjustments to make the label visible for all objects
     y = ymin - 15 if ymin - 15 > 15 else ymin + 15
-    label = "{}: {:.0f}%".format(arr_labels[class_id][0], obj['score'] * 100)
-    cv2.putText(original_image_np, str(class_id), (xmin, y),
+    label = "{}: {:.0f}%".format(arr_labels[class_id-1][0], obj['score'] * 100)
+    cv2.putText(original_image_np, str(class_id-1), (xmin, y),
         cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
-    if(arr_labels[class_id][0] not in problems):
-      problems.append(arr_labels[class_id][0])
+    if(arr_labels[class_id-1][0] not in problems):
+      problems.append(arr_labels[class_id-1][0])
       problem_colors.append('#%02x%02x%02x' % (color[0], color[1], color[2]))
-      arr_labels_ids.append(class_id)
+      arr_labels_ids.append(class_id-1)
     
 
   # Return the final image

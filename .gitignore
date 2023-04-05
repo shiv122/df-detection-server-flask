@@ -20,6 +20,7 @@ docs/_build/
 
 # Coverage reports
 htmlcov/
+static/images/
 .coverage
 .coverage.*
 *,cover
