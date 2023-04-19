@@ -53,4 +53,4 @@ def disp(num):
 #     app.run(debug = True)
     
 
-app.run()
+app.run(8000)
