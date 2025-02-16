@@ -1,0 +1,347 @@
+[{
+    "Name": "Alteration of Tongue",
+    "color": "#E11299",
+    "extra": {
+        "description": "The tongue does not look normal.",
+        "treatment options": "It may need immediate attention of the dentist.",
+        "youtube": [
+            "https://www.youtube.com/embed/M57MVQxTPqs"
+        ]
+    }
+},
+{
+    "Name": "Alteration of Soft Tissue",
+    "color": "#7149C6",
+    "extra": {
+        "description": "The soft tissue of the mouth does not look normal.",
+        "treatment options": "It may need immediate attention of the dentist.",
+        "youtube": [
+            "https://www.youtube.com/embed/ikGn6JP_oms",
+            "https://www.youtube.com/embed/gNsi82KelRk",
+            "https://www.youtube.com/embed/M57MVQxTPqs"
+        ]
+    }
+},
+{
+    "Name": "Attrition of the tooth",
+    "color": "#AA77FF",
+    "extra": {
+        "description": "It is tooth wear due to tooth to tooth contact. The Signs and symptoms are: Flattening or Thinning of the teeth, Tooth discoloration, Tooth sensitivity or pain, Pain in the gum",
+        "treatment options": "1. Dental filling, 2. Root canal treatment,  3. Cap or Covering on the tooth",
+        "youtube": [
+            "https://www.youtube.com/embed/TZnYpTQvMIY"
+        ]
+    }
+},
+{
+    "Name": "Bleeding Gums",
+    "color": "#E21818",
+    "extra": {
+        "description": "Bleeding from gums may be due to the following reasons: Poor oral hygiene, Gingival swelling or Inflammation, Pregnancy, Faulty tooth brushing technique, Medications",
+        "treatment options": "1. Professional dental cleaning, Medication if required, as suggested by the dentist,  2. Self-oral hygiene maintenance",
+        "youtube": [
+            "https://www.youtube.com/embed/waTai8G1yHs",
+            "https://www.youtube.com/embed/Q7PI3GUzwWQ",
+            "https://www.youtube.com/embed/TUpk8dbIVBM",
+            "https://www.youtube.com/embed/-5D2avenTK4"
+        ]
+    }
+},
+{
+    "Name": "Broken tooth or Fractured tooth or Cracked Tooth",
+    "color": "#37306B",
+    "extra": {
+        "description": "Broken tooth or Fractured tooth or Cracked Tooth may be due to the following reasons: Trauma to the tooth, Untreated cavity, Eating something hard, Old or faulty dental filling",
+        "treatment options": "1. Dental filling,  2. Root canal treatment , 3. Crown or cap on the tooth, 4. Extraction of the tooth",
+        "youtube": [
+            "https://www.youtube.com/embed/84aw7UDQUKM",
+            "https://www.youtube.com/embed/kiAfVaG3sHE",
+            "https://www.youtube.com/embed/cQgpHufB-5k",
+            "https://www.youtube.com/embed/CND_sNhoJ5M",
+            "https://www.youtube.com/embed/qbZTqUCyygY"
+        ]
+    }
+},
+{
+    "Name": "Calculus or Tartar and Stain on the tooth",
+    "color": "#2C3333",
+    "extra": {
+        "description": "Calculus or Tartar: It is hard deposits on the tooth. Stain: It is brown or black spots on the tooth.",
+        "treatment options": "1. Professional dental cleaning  2. Self-oral hygiene maintenance",
+        "youtube": [
+            "https://www.youtube.com/embed/vIu0LRGODYA",
+            "https://www.youtube.com/embed/-5D2avenTK4",
+            "https://www.youtube.com/embed/Q7PI3GUzwWQ",
+            "https://www.youtube.com/embed/2hBVNKGau2s",
+            "https://www.youtube.com/embed/TUpk8dbIVBM"
+        ]
+    }
+},
+{
+    "Name": "Replace your Tooth Brush",
+    "color": "None",
+    "youtube": "https://www.youtube.com/watch?v=VdjmGxq-X7M"
+},
+{
+    "Name": "Usable Tooth Brush",
+    "color": "None",
+    "youtube": "https://www.youtube.com/watch?v=VdjmGxq-X7M"
+},
+{
+    "Name": "Stain on the tooth",
+    "color": "#804674",
+    "extra": {
+        "description": "It is brown or black spots on the tooth.",
+        "treatment options": "1. Professional dental cleaning  2. Self-oral hygiene maintenance",
+        "youtube": [
+            "https://www.youtube.com/embed/vIu0LRGODYA",
+            "https://www.youtube.com/embed/-5D2avenTK4",
+            "https://www.youtube.com/embed/Q7PI3GUzwWQ",
+            "https://www.youtube.com/embed/2hBVNKGau2s",
+            "https://www.youtube.com/embed/qqKVTWSjQJM",
+            "https://www.youtube.com/embed/TUpk8dbIVBM"
+        ]
+    }
+},
+{
+    "Name": "Erosion of the Tooth",
+    "color": "#898121",
+    "extra": {
+        "description": "The tooth may erode due to more consumption of acidic beverages and foods. The signs and symptoms are Tooth sensitivity or pain, Tooth discoloration, The edges of the tooth may look transparent, Cracks in the tooth",
+        "treatment options": "1. Dental filling  2. Root canal treatment  3. Cap or Covering on the tooth",
+        "youtube": [
+            "https://www.youtube.com/embed/eHQrgexdtuo",
+            "https://www.youtube.com/embed/bAbyi6ck4ik"
+        ]
+    }
+},
+{
+    "Name": "Gap or space between the teeth",
+    "color": "#E96479",
+    "extra": {
+        "description": "It is space or gap between the teeth.",
+        "treatment options": "1. Braces or Orthodontic Treatment 2. Cosmetic dental filling 3. Surgery may be required if gum is involved.",
+        "youtube": [
+            "https://www.youtube.com/embed/lIQ68tqYiiM"
+        ]
+    }
+},
+{
+    "Name": "Dental cavity or Tooth decay",
+    "color": "#F0A04B",
+    "extra": {
+        "description": "Cavities, also called tooth decay or caries, are caused by a combination of factors, including bacteria in your mouth, frequent snacking, sipping sugary drinks and not cleaning your teeth well. The signs and symptoms of cavities vary, depending on their extent and location.",
+        "treatment options": "1. Fluoride treatments\n2. Pit and fissure sealant placement\n3. Dental fillings\n4. Crowns\n5. Root canal treatment\n6. Tooth extractions",
+        "youtube": [
+            "https://www.youtube.com/watch?v=_oIlv59bTL4",
+            "https://www.youtube.com/watch?v=CatGYW_ysSo"
+        ]
+    }
+},
+{
+    "Name": "Irregular teeth or Misaligned teeth or Crooked teeth or Malocclusion",
+    "color": "#393053",
+    "extra": {
+        "description": "It is abnormal contact between the upper and lower teeth.",
+        "treatment options": "1. Braces\n2. Tooth removal\n3. Reshaping, bonding, or capping of teeth\n4. Surgical procedures",
+        "youtube": [
+            "https://www.youtube.com/embed/JlE-xMT8y6U",
+            "https://www.youtube.com/embed/xGMxicD7VhE",
+            "https://www.youtube.com/embed/l2uQyBCmj9I",
+            "https://www.youtube.com/embed/8ULpyHWFal0",
+            "https://www.youtube.com/embed/KSbsGVHMuKQ",
+            "https://www.youtube.com/embed/cx-Nh6Cfuco",
+            "https://www.youtube.com/embed/CeVBwEFE5Ro",
+            "https://www.youtube.com/embed/9bt_JFBs3Ac",
+            "https://www.youtube.com/embed/0kPHUBWCm4Y"
+        ]
+    }
+},
+{
+    "Name": "Gingivitis or Gum inflammation",
+    "color": "#150050",
+    "extra": {
+        "description": "It occurs when the tissues surrounding and supporting the teeth get affected. If this condition is left untreated, you may start losing teeth. It may happen due to the lack of proper oral hygiene, which allows bacteria to stick to the tooth and deteriorate it.",
+        "treatment options": "1. Scaling and Root Planing\n2. Medication if required, as suggested by the dentist\n3. Surgery (based on the severity)\n4. Extraction or Removal of teeth if cannot be saved\n5. Self-oral hygiene maintenance",
+        "youtube": [
+            "https://www.youtube.com/embed/PA19KEcBsiQ",
+            "https://www.youtube.com/embed/B5O9oDuu2BQ",
+            "https://www.youtube.com/embed/See83Emnktk",
+            "https://www.youtube.com/embed/OU4vMbbJO5I",
+            "https://www.youtube.com/embed/bKonpU87EZs",
+            "https://www.youtube.com/embed/oJaj4Y6BWrU",
+            "https://www.youtube.com/embed/NAGk535WO2w",
+            "https://www.youtube.com/embed/lZLVO7qLRqY"
+        ]
+    }
+},
+{
+    "Name": "No significant Soft Tissue changes observed",
+    "color": "None",
+    "extra": {
+        "description": "The soft tissues of your mouth appear healthy. Continue maintaining a good oral hygiene routine.",
+        "treatment options": "Please visit your dentist for the routine dental checkup in every six months.",
+        "youtube": [
+            "https://www.youtube.com/embed/8fXvyD5HfOA",
+            "https://www.youtube.com/embed/owofBnugZBk",
+            "https://www.youtube.com/embed/LIGRowUaMD8",
+            "https://www.youtube.com/embed/hBGG7A6x95A",
+            "https://www.youtube.com/embed/Q7PI3GUzwWQ",
+            "https://www.youtube.com/embed/2hBVNKGau2s",
+            "https://www.youtube.com/embed/qqKVTWSjQJM",
+            "https://www.youtube.com/embed/TUpk8dbIVBM",
+            "https://www.youtube.com/embed/pSTgKOQuZ2g",
+            "https://www.youtube.com/embed/hT_Epbj6vNo",
+            "https://www.youtube.com/embed/bKonpU87EZs",
+            "https://www.youtube.com/embed/i_RzQ05jXY8",
+            "https://www.youtube.com/embed/k9mkq5sN5P0"
+        ]
+    }
+},
+{
+    "Name": "No significant dental problem detected",
+    "color": "None",
+    "extra": {
+        "description": "The teeth and gums of your mouth appear healthy. Continue maintaining a good oral hygiene routine.",
+        "treatment options": "Please visit your dentist for the routine dental checkup in every six months.",
+        "youtube": [
+            "https://www.youtube.com/embed/8fXvyD5HfOA",
+            "https://www.youtube.com/embed/owofBnugZBk",
+            "https://www.youtube.com/embed/LIGRowUaMD8",
+            "https://www.youtube.com/embed/hBGG7A6x95A",
+            "https://www.youtube.com/embed/Q7PI3GUzwWQ",
+            "https://www.youtube.com/embed/2hBVNKGau2s",
+            "https://www.youtube.com/embed/qqKVTWSjQJM",
+            "https://www.youtube.com/embed/TUpk8dbIVBM",
+            "https://www.youtube.com/embed/pSTgKOQuZ2g",
+            "https://www.youtube.com/embed/hT_Epbj6vNo",
+            "https://www.youtube.com/embed/bKonpU87EZs",
+            "https://www.youtube.com/embed/i_RzQ05jXY8",
+            "https://www.youtube.com/embed/k9mkq5sN5P0"
+        ]
+    }
+},
+{
+    "Name": "Discoloration of teeth",
+    "color": "#B99B6B",
+    "extra": {
+        "description": "Possible causes of Discoloration of teeth: Foods and beverages like Coffee, tea, colas can make your teeth discolored, Tobacco use, Poor oral hygiene, Effects of some medications, Due to some diseases, Due to age, Due to the developmental disorder of the teeth, Trauma to the tooth, Genetics",
+        "treatment options": "1. Avoidance of the foods and beverages that cause stains 2. Dental filling 3. Root canal treatment 4. Tooth removal or Extraction of the tooth 5. Professional dental cleaning 6. In-home whitening agents suggested by the dentist 7. Whitening or bleaching procedures",
+        "youtube": [
+            "https://www.youtube.com/embed/d35fiIljr3M",
+            "https://www.youtube.com/embed/-5D2avenTK4",
+            "https://www.youtube.com/embed/vIu0LRGODYA"
+        ]
+    }
+},
+{
+    "Name": "Missing teeth or loss of teeth",
+    "color": "#F94A29",
+    "extra": {
+        "description": "Teeth that are no longer exist in your mouth.",
+        "treatment options": "1. Dental implants (fixed prosthesis) 2. Fixed partial denture or Bridge (fixed prosthesis) 3. Removable partial denture (removable prosthesis) 4. Complete denture (it can be fixed or removable prosthesis)",
+        "youtube": [
+            "https://www.youtube.com/embed/3s08kea6dU0",
+            "https://www.youtube.com/embed/2lIyrEFNJ4Y",
+            "https://www.youtube.com/embed/u26cNBc8Ky0",
+            "https://www.youtube.com/embed/ZJXc1ijEtx4",
+            "https://www.youtube.com/embed/6ry4sFsBB8I",
+            "https://www.youtube.com/embed/EbSQh0LitEQ",
+            "https://www.youtube.com/embed/qbZTqUCyygY",
+            "https://www.youtube.com/embed/FekSJoA054Y",
+            "https://www.youtube.com/embed/V5sOfs_R0AA",
+            "https://www.youtube.com/embed/nesRYXl-VRI",
+            "https://www.youtube.com/embed/G49hShPUrQU",
+            "https://www.youtube.com/embed/Pc0MzQEbeRU"
+        ]
+    }
+},
+{
+    "Name": "Swelling on the Gums or Soft Tissue",
+    "color": "#D61355",
+    "extra": {
+        "description": "Swelling on the gums or the soft tissue is found.",
+        "treatment options": "It may need immediate attention of the dentist.",
+        "youtube": [
+            "https://www.youtube.com/embed/ikGn6JP_oms",
+            "https://www.youtube.com/embed/gNsi82KelRk",
+            "https://www.youtube.com/embed/M57MVQxTPqs",
+            "https://www.youtube.com/embed/567KLTcuDIg",
+            "https://www.youtube.com/embed/bKonpU87EZs",
+            "https://www.youtube.com/embed/i_RzQ05jXY8"
+        ]
+    }
+},
+{
+    "Name": "Calculus or Tartar on the tooth",
+    "color": "#03001C",
+    "extra": {
+        "description": "It is hard deposits on the tooth.",
+        "treatment options": "1. Professional dental cleaning  2. Self-oral hygiene maintenance",
+        "youtube": [
+            "https://www.youtube.com/embed/vIu0LRGODYA",
+            "https://www.youtube.com/embed/-5D2avenTK4",
+            "https://www.youtube.com/embed/Q7PI3GUzwWQ",
+            "https://www.youtube.com/embed/2hBVNKGau2s",
+            "https://www.youtube.com/embed/qqKVTWSjQJM",
+            "https://www.youtube.com/embed/TUpk8dbIVBM"
+        ]
+    }
+},
+{
+    "Name": "Mouth Ulcer",
+    "color": "#820000",
+    "extra": {
+        "description": "These are normally small, painful lesions that develop in your mouth or at the base of your gums.",
+        "treatment options": "Mouth ulcers are not infectious and usually go away within one to two weeks. However, if you get a mouth ulcer that is large or extremely painful, or if it lasts for a long time without healing, you should consult your dentist.",
+        "youtube": [
+            "https://www.youtube.com/watch?v=_0jqei5-1so",
+            "https://www.youtube.com/watch?v=as-qw-zAOf0"
+        ]
+    }
+},
+{
+    "Name": "Receding Gum or Gum Recession or Gingival recession",
+    "color": "#FF78F0",
+    "extra": {
+        "description": "When your gums pull away or recede from the teeth, it is called Receding Gum or Gum Recession or Gingival recession",
+        "treatment options": "1. Use of proper brushing technique 2. Professional dental cleaning 3. Correction of ill-fitting denture 4. Surgery",
+        "youtube": [
+            "https://www.youtube.com/embed/QtWYxIT9ZGA",
+            "https://www.youtube.com/embed/JLmenBLKTb0",
+            "https://www.youtube.com/embed/Q7PI3GUzwWQ",
+            "https://www.youtube.com/embed/-5D2avenTK4"
+        ]
+    }
+},
+{
+    "Name": "Gingivitis or Gum inflammation",
+    "color": "#150050",
+    "extra": {
+        "description": "It occurs when the tissues surrounding and supporting the teeth get affected. If this condition is left untreated, you may start losing teeth. It may happen due to the lack of proper oral hygiene, which allows bacteria to stick to the tooth, leading to tooth deterioration.",
+        "treatment options": "1. Scaling and Root Planing 2. Medication if required, as suggested by the dentist 3. Surgery (based on the severity)  4. Extraction or Removal of teeth if they cannot be saved 5. Self-oral hygiene maintenance",
+        "youtube": [
+            "https://www.youtube.com/embed/PA19KEcBsiQ",
+            "https://www.youtube.com/embed/B5O9oDuu2BQ",
+            "https://www.youtube.com/embed/See83Emnktk",
+            "https://www.youtube.com/embed/OU4vMbbJO5I",
+            "https://www.youtube.com/embed/bKonpU87EZs",
+            "https://www.youtube.com/embed/oJaj4Y6BWrU",
+            "https://www.youtube.com/embed/NAGk535WO2w",
+            "https://www.youtube.com/embed/lZLVO7qLRqY"
+        ]
+    }
+},
+{
+    "Name": "Abrasion of the tooth",
+    "color": "#150050",
+    "extra": {
+        "description": "Dental abrasion refers to the wearing away of tooth enamel, which is the hard outer layer of the tooth. It can occur due to various factors, such as aggressive tooth brushing, abrasive toothpaste, bruxism (teeth grinding), and diet. Dental abrasion can cause tooth sensitivity, pain, and even tooth loss if left untreated.",
+        "treatment options": "1. Correct tooth brushing method  2. Dental filling  3. Root canal treatment  4. Cap or Covering on the tooth",
+        "youtube": [
+            "https://www.youtube.com/watch?v=KfJlFd4XJw0",
+            "https://www.youtube.com/watch?v=eX0rdLhhzPk"
+        ]
+    }
+}
+]

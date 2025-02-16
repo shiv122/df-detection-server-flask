@@ -24,3 +24,5 @@ static/images/
 .coverage
 .coverage.*
 *,cover
+dfvenv/*
+*.log
